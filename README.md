@@ -35,7 +35,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 </p>
 
 <p align="center">
-  🏭 SAP MES sistemleriyle üretim hattı entegrasyonları, veri toplama ve izleme çözümleri geliştiriyorum.
+  🏭 MES/MOM sistemleriyle üretim hattı entegrasyonları, veri toplama ve izleme çözümleri geliştiriyorum.
 </p>
 
 ---
@@ -88,6 +88,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
 
