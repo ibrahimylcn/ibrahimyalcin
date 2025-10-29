@@ -1,6 +1,6 @@
-<!-- PROFIL README - İbrahim Yalçın -->
+<!-- 🌟 PROFIL README - İbrahim Yalçın -->
 <h1 align="center">İbrahim Yalçın</h1>
-<h3 align="center">⚙️ Full Stack Developer @ Vestel | 🚀 .NET, DevOps & MES Enthusiast</h3>
+<h3 align="center">⚙️ Full Stack Developer @ Vestel | 🚀 .NET & MES Systems Enthusiast | 💡 Industrial Software Innovator</h3>
 
 <p align="center">
   🎓 Yönetim Bilişim Sistemleri<br>
@@ -12,9 +12,9 @@
 
 ### 🧠 Hakkımda
 
-Ben İbrahim Yalçın, üretim hatlarında gerçek zamanlı veri toplama, izleme ve sistem entegrasyonları üzerine çalışan bir .NET Developer’ım.  
-Freelance olarak SAP MES teknik danışmanlığı veriyor, endüstriyel veri akışlarını optimize ediyorum.  
-Boş zamanlarımda mobil uygulama geliştirme projeleriyle uğraşıyorum.  
+Ben **İbrahim Yalçın**, üretim hatlarında gerçek zamanlı veri toplama, izleme ve sistem entegrasyonları üzerine çalışan bir **.NET Developer**’ım.  
+Freelance olarak **SAP MES teknik danışmanlığı** veriyor, endüstriyel veri akışlarını optimize ediyorum.  
+Boş zamanlarımda **mobil uygulama geliştirme** projeleriyle uğraşıyorum.  
 
 Projelerimde **C#**, **.NET 9 / .NET Core**, **Blazor**, **Entity Framework**, **SignalR** ve **MSSQL** teknolojilerini aktif olarak kullanıyorum.  
 Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **Grafana** ve **OPC-UA** gibi teknolojilerle entegre endüstriyel yazılım çözümleri üretiyorum.  
@@ -29,8 +29,16 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,bootstrap,flutter,dart,git,github,githubactions,docker,azure,sqlite,bash,linux,visualstudio,vscode,postman,figma,python&perline=10" />
 </p>
 
+<!-- Ek ikonik araçlar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MES MOM%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MES%20MOM%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white">
   <img src="https://img.shields.io/badge/Manufacturing%20Automation-ENABLED-00C853?style=for-the-badge&logo=gear&logoColor=white">
 </p>
 
@@ -38,16 +46,34 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
   🏭 MES/MOM sistemleriyle üretim hattı entegrasyonları, veri toplama ve izleme çözümleri geliştiriyorum.
 </p>
 
+<br>
+
 ---
 
-### Kodlama Ruh Hali 
-<p align="center"> <img src="https://i.gifer.com/7Sv6.gif" width="420" alt="When My Code Works Dance"> </p> <p align="center"> <i>"Kod çalıştı, debug bitti… hayat kısa, commit et ve dans et!"</i> 😄 </p>
+### 💃 Kodlama Ruh Hali 
+
+<p align="center">
+  <img src="https://i.gifer.com/7Sv6.gif" width="420" alt="When My Code Works Dance">
+</p>
+
+<p align="center">
+  <i>"Kod çalıştı, debug bitti… hayat kısa, commit et ve dans et!"</i> 😄  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commit%20%26%20Dance-ON-ff69b4?style=for-the-badge&logo=github" />
+</p>
+
+<br>
+
 ---
 
 ### 🧩 Şu Aralar
 - 🔭 .NET 9 ile middleware geliştiriyorum  
 - 🌱 Blazor WASM ve Container mimarilerine odaklanıyorum  
 - 🧠 MES / MOM sistemleri üzerine çözümler geliştiriyorum  
+
+<br>
 
 ---
 
@@ -62,7 +88,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 - 🕵️‍♂️ Ağ trafiğini izlemek bana terapi gibi geliyor — Wireshark.  
 - 🎨 “Kodu çalıştırmak kolay, anlamlı hale getirmek sanattır.”  
 
----
+<br>
 
 ### 📫 Bana Ulaş
 <p align="center">
@@ -70,30 +96,18 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
   💼 <a href="https://www.linkedin.com/in/ibrahimylcn" target="_blank">linkedin.com/in/ibrahimylcn</a>
 </p>
 
+<br>
+
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
+<br>
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
