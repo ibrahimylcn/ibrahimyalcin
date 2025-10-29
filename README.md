@@ -87,12 +87,6 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ---
 
-### 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimylcn&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimylcn&layout=compact&theme=tokyonight" height="165">
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
@@ -102,3 +96,4 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
