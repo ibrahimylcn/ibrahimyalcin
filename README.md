@@ -1,20 +1,21 @@
 <!-- PROFIL README - İbrahim Yalçın -->
-<h1 align="center"><span style="color:#4DB6AC;">İbrahim Yalçın</span></h1>
+<h1 align="center">İbrahim Yalçın</h1>
 <h3 align="center">⚙️ Full Stack Developer @ Vestel | 🚀 .NET, DevOps & MES Enthusiast</h3>
 
 <p align="center">
   🎓 Yönetim Bilişim Sistemleri<br>
-  🏭 Operasyonel Teknolojiler & MOM / MES Sistemleri <br>
-  📍 İzmir, Türkiye<br>
+  🏭 Operasyonel Teknolojiler & MOM / MES Sistemleri<br>
+  📍 İzmir, Türkiye
 </p>
 
 ---
 
 ### 🧠 Hakkımda
 
-Ben İbrahim Yalçın, üretim hatlarında gerçek zamanlı veri toplama, izleme ve sistem entegrasyonları üzerine çalışan bir .NET & MES Developer’ım.
-Freelance olarak SAP MES teknik danışmanlığı veriyor, endüstriyel veri akışlarını optimize ediyorum.
-Boş zamanlarımda mobil uygulama geliştirme projeleriyle uğraşıyorum.
+Ben İbrahim Yalçın, üretim hatlarında gerçek zamanlı veri toplama, izleme ve sistem entegrasyonları üzerine çalışan bir .NET & MES Developer’ım.  
+Freelance olarak SAP MES teknik danışmanlığı veriyor, endüstriyel veri akışlarını optimize ediyorum.  
+Boş zamanlarımda mobil uygulama geliştirme projeleriyle uğraşıyorum.  
+
 Projelerimde **C#**, **.NET 9 / .NET Core**, **Blazor**, **Entity Framework**, **SignalR** ve **MSSQL** teknolojilerini aktif olarak kullanıyorum.  
 Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **Grafana** ve **OPC-UA** gibi teknolojilerle entegre endüstriyel yazılım çözümleri üretiyorum.  
 
@@ -24,32 +25,34 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ### ⚙️ Teknoloji Cephaneliğim
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,dotnetcore,blazor,entityframework,signalr,flutter,dart,git,github,githubactions,docker,jenkins,podman,azure,rabbitmq,opcua,sap,grafana,nginx,html,css,js,mssql,powershell,bash,linux,kali,windows,androidstudio,visualstudio,vscode,postman,swagger,figma,trello&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,signalr,flutter,dart,git,github,githubactions,docker,jenkins,podman,azure,rabbitmq,nginx,html,css,js,mssql,powershell,bash,linux,windows,androidstudio,visualstudio,vscode,postman,swagger,figma,trello&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MES%20Integration-Active-blue?style=for-the-badge&logo=factory&logoColor=white">
-  <img src="https://img.shields.io/badge/Manufacturing%20Automation-Enabled-success?style=for-the-badge&logo=gear&logoColor=white">
+  <img src="https://img.shields.io/badge/MES%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=factory&logoColor=white">
+  <img src="https://img.shields.io/badge/Manufacturing%20Automation-ENABLED-00C853?style=for-the-badge&logo=gear&logoColor=white">
 </p>
 
-> 🏭 SAP MES sistemleriyle üretim hattı entegrasyonları, veri toplama ve izleme çözümleri geliştiriyorum.  
+<p align="center">
+  🏭 SAP MES sistemleriyle üretim hattı entegrasyonları, veri toplama ve izleme çözümleri geliştiriyorum.
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/currently-developing-brightgreen?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/focus-MOMWare-blue?style=for-the-badge&logo=visualstudio">
+  <img src="https://img.shields.io/badge/CURRENTLY-DEVELOPING-brightgreen?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/FOCUS-MOMWare-0078D7?style=for-the-badge&logo=visualstudio">
   <a href="https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p" target="_blank">
-  <img src="https://img.shields.io/badge/listening-Lana_Del_Rey-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/LISTENING-Lana_Del_Rey-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 
 ---
 
 ### 🧩 Şu Aralar
-- 🔭 .NET 9 ile middleware geliştiriyorum
-- 🌱 .NET 9, Blazor WASM ve Container mimarilerine odaklanıyorum  
-- 🧠 MES / MOM sistemleri üzerinde çalışıyorum  
+- 🔭 .NET 9 ile middleware geliştiriyorum  
+- 🌱 Blazor WASM ve Container mimarilerine odaklanıyorum  
+- 🧠 MES / MOM sistemleri üzerine çözümler geliştiriyorum  
 
 ---
 
@@ -61,14 +64,13 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 - ☕ Kahve + Debug + Console.WriteLine = üretkenliğin formülü.  
 - 🔍 Hataları ararken bazen sistemden önce ben çökerim.  
 - 🌙 Karanlık tema sadece bir tercih değil, göz sağlığı politikasıdır.  
-- 🕵️‍♂️ Ağ trafiğini izlemek bana terapi gibi geliyor — Wireshark.
-- ⚙️ “Kodu çalıştırmak kolay, anlamlı hale getirmek sanattır.” 🎨
-
+- 🕵️‍♂️ Ağ trafiğini izlemek bana terapi gibi geliyor — Wireshark.  
+- 🎨 “Kodu çalıştırmak kolay, anlamlı hale getirmek sanattır.”  
 
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJnN2FoM3RxZzF5ZWg1dWV6aWQzcWpxMnVnZ3B2eXh5YjlzY3ppOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wf5XjKq8Io1vO/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 <p align="center">
@@ -92,7 +94,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
