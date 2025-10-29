@@ -25,17 +25,9 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ### ⚙️ Teknoloji Cephaneliğim
 
-<div align="center">
-
-| 💻 Backend | 🌐 Frontend | ⚙️ DevOps & Tools |
-|:-----------:|:------------:|:----------------:|
-| C# • .NET • SignalR • MSSQL | HTML • CSS • JS • Blazor • Flutter • Dart | Docker • Jenkins • Azure • RabbitMQ • Grafana |
-
-| 🧩 Frameworks | 🧰 IDE & Araçlar | 💡 Diğer |
-|:--------------:|:----------------:|:----------:|
-| Entity Framework • .NET 9 • OPC-UA | Visual Studio • VS Code • Postman • Swagger • Figma | Linux • Windows • PowerShell • Bash • Trello |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,flutter,dart,git,github,docker,jenkins,azure,rabbitmq,grafana,html,css,js,mysql,powershell,bash,linux,windows,visualstudio,vscode,postman,swagger,figma,trello&perline=10" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MES%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white">
@@ -48,13 +40,13 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ---
 
-### 🐱 Kodlama Anı 😹
+### 🐱 Kodlama Ruh Hali 😹
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="380" alt="Coding Cat">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Cat Gif">
 </p>
 
 <p align="center">
-  <i>“Basit kod iyi koddur. Karmaşık olanı çözmek geliştiricinin sanatıdır.”</i> 🎨
+  <i>“Kahve biter, hata kalır... ama yine de çalıştırırım.”</i> ☕💻  
 </p>
 
 ---
