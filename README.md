@@ -26,7 +26,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 ### ⚙️ Teknoloji Cephaneliğim
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,aspnet,html,css,js,react,bootstrap,flutter,dart,git,github,githubactions,docker,jenkins,azure,mysql,sqlite,powershell,bash,linux,windows,visualstudio,vscode,postman,swagger,figma,trello,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,html,css,js,react,bootstrap,flutter,dart,git,github,githubactions,docker,jenkins,azure,mysql,sqlite,powershell,bash,linux,windows,visualstudio,vscode,postman,figma,python&perline=10" />
 </p>
 
 <p align="center">
@@ -88,5 +88,6 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
