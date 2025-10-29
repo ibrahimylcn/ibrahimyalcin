@@ -1,6 +1,6 @@
 <!-- PROFIL README - İbrahim Yalçın -->
 <h1 align="center">İbrahim Yalçın</h1>
-<h3 align="center">⚙️ Full Stack Developer @ Vestel | 🚀 .NET, DevOps & MES Enthusiast</h3>
+<h3 align="center">⚙️ Full Stack Developer @ Vestel | 🚀 .NET, DevOps & MOM/MES Enthusiast</h3>
 
 <p align="center">
   🎓 Yönetim Bilişim Sistemleri<br>
@@ -81,6 +81,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
 
