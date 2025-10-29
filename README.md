@@ -38,7 +38,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 </p>
 
 
-### 💃 Kodlama Ruh Hali 
+### Kodlama Ruh Hali 
 
 <p align="center">
   <img src="https://i.gifer.com/7Sv6.gif" width="420" alt="When My Code Works Dance">
@@ -99,6 +99,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
 
