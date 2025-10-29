@@ -25,18 +25,36 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ### ⚙️ Teknoloji Cephaneliğim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,flutter,dart,git,github,docker,azure,jenkins,rabbitmq,grafana,html,css,js,mysql,powershell,bash,linux,windows,visualstudio,vscode,postman,swagger,figma,trello&perline=10" />
-</p>
+<div align="center">
+
+| 💻 Backend | 🌐 Frontend | ⚙️ DevOps & Tools |
+|:-----------:|:------------:|:----------------:|
+| C# • .NET • SignalR • MSSQL | HTML • CSS • JS • Blazor • Flutter • Dart | Docker • Jenkins • Azure • RabbitMQ • Grafana |
+
+| 🧩 Frameworks | 🧰 IDE & Araçlar | 💡 Diğer |
+|:--------------:|:----------------:|:----------:|
+| Entity Framework • .NET 9 • OPC-UA | Visual Studio • VS Code • Postman • Swagger • Figma | Linux • Windows • PowerShell • Bash • Trello |
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MES%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white">
   <img src="https://img.shields.io/badge/Manufacturing%20Automation-ENABLED-00C853?style=for-the-badge&logo=gear&logoColor=white">
 </p>
 
-
 <p align="center">
   🏭 SAP MES sistemleriyle üretim hattı entegrasyonları, veri toplama ve izleme çözümleri geliştiriyorum.
+</p>
+
+---
+
+### 🐱 Kodlama Anı 😹
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="380" alt="Coding Cat">
+</p>
+
+<p align="center">
+  <i>“Basit kod iyi koddur. Karmaşık olanı çözmek geliştiricinin sanatıdır.”</i> 🎨
 </p>
 
 ---
@@ -61,16 +79,6 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Animation">
-</p>
-
-<p align="center">
-  <i>“Karmaşık sistemleri sadeleştirmek, kod yazmanın ötesinde bir sanattır.”</i> 🎨
-</p>
-
----
-
 ### 📫 Bana Ulaş
 <p align="center">
   🌐 <a href="https://ibrahimyalcin.dev/" target="_blank">ibrahimyalcin.dev</a><br>
@@ -88,4 +96,3 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
-
