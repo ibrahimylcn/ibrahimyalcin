@@ -30,7 +30,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MESMOM%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white">
+  <img src="https://img.shields.io/badge/MES MOM%20Integration-ACTIVE-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white">
   <img src="https://img.shields.io/badge/Manufacturing%20Automation-ENABLED-00C853?style=for-the-badge&logo=gear&logoColor=white">
 </p>
 
@@ -88,6 +88,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
 
