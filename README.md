@@ -40,14 +40,14 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 
 ---
 
-### 😺 Kodlama Ruh Hali 😺
+### Kodlama Ruh Hali 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Mood">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat Coding">
 </p>
 
 <p align="center">
-  <i>"Kahve biter, hata kalır... ama yine de çalıştırırım ☕💻"</i>
+  <i>"Kahve + Karanlık Tema + Kod = Terapi"</i> 🐾
 </p>
 
 
@@ -90,6 +90,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
 
