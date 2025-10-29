@@ -12,7 +12,7 @@
 
 ### 🧠 Hakkımda
 
-Ben İbrahim Yalçın, üretim hatlarında gerçek zamanlı veri toplama, izleme ve sistem entegrasyonları üzerine çalışan bir .NET & MOM/MES Developer’ım.  
+Ben İbrahim Yalçın, üretim hatlarında gerçek zamanlı veri toplama, izleme ve sistem entegrasyonları üzerine çalışan bir .NET Developer’ım.  
 Freelance olarak SAP MES teknik danışmanlığı veriyor, endüstriyel veri akışlarını optimize ediyorum.  
 Boş zamanlarımda mobil uygulama geliştirme projeleriyle uğraşıyorum.  
 
@@ -81,6 +81,7 @@ Ayrıca **Azure DevOps**, **Docker**, **Jenkins**, **Podman**, **RabbitMQ**, **G
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=İbrahim%20Yalçın!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=4,10,18,24,30&animation=twinkling&fontColor=fff" />
 </p>
+
 
 
 
